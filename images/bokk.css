@@ -1,0 +1,61 @@
+ @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,700;1,400&family=Noto+Sans+JP:wght@200&family=Oxygen:wght@700&family=Sedgwick+Ave+Display&family=Shadows+Into+Light&family=Skranji:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Skranji:wght@700&display=swap');
+body{
+
+     background-image: url(./book-863418_1280.webp);
+    background-repeat: no-repeat;
+    background-size: cover; */
+ } 
+
+.c{
+    height: 1001px   ;
+    width: 13%;
+    /* background-color:white; */
+    /* border: 100px gray solid; */
+    float: left;
+    margin-top: -19px;
+    /* color: blueviolet; */
+    margin-left: 100px;
+    padding: 5px;
+
+}
+h1{
+    text-align: center;
+    margin-top: 1px;
+    padding-top: 125px;  
+    background-image: url(./img3);
+    height: 153px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Skranji', cursive;
+     
+}
+img{
+    height: 708px;
+    width: 100%;
+}
+button{
+    height: 60px;
+    width: 100px;
+    border-radius: 15px;
+    background-color: blueviolet;
+    color: whitesmoke;
+    margin-left: 116px;
+    margin-top: 7px;
+    padding: 5px;
+}
+button:hover{
+    background-color: light violet;
+    color: brown;
+}
+p{
+    color: white;
+
+
+}
+h2{
+    color: white;
+}
+h3{
+    color: whitesmoke;
+}
